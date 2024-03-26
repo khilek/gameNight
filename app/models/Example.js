@@ -3,3 +3,4 @@ export class Example {
     this.message = message
   }
 }
+
